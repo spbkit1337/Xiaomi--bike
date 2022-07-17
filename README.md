@@ -40,6 +40,6 @@ https://www.youtube.com/watch?v=tlBWw_OIWbA
 
 https://www.youtube.com/watch?v=vlpY9J00t44
 
-
+Скриншот🦉
 
 ![Screenshot 2022-07-17 at 21-11-25 Велосипед Xiaomi](https://user-images.githubusercontent.com/51737588/179419178-00b9bb69-7035-497f-a9e3-16cdd2176d58.png)
