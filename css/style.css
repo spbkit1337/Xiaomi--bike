@@ -425,7 +425,7 @@ body {
 }
 
 .footer {
-    background-color: #131313;
+    background-color: #454242;
 }
 
 .footer__inner{
@@ -464,6 +464,11 @@ body {
 
 .footer__contacts-img{
     margin-right: 10px;
+}
+
+
+.footer__social-img{
+    width: 100px;
 }
 
 @media (max-width:1140px) {
